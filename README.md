@@ -4,13 +4,13 @@ Udemig Boostrap projesi Html, Css ve Boostrap kullanılarak geliştirilmiş bir 
 
 <h1>Proje Özellikleri
 
-- Kullanıcı Dostu Arayüz: Basit ve etkili bir tasarım ile kullanıcı deneyimi optimize edilmiştir.
+ Kullanıcı Dostu Arayüz: Basit ve etkili bir tasarım ile kullanıcı deneyimi optimize edilmiştir.
 
-- Responsive Tasarım:Tüm cihaz boyutlarında (mobil, tablet ,masaüstü) uyumlu çalışır.
+ Responsive Tasarım:Tüm cihaz boyutlarında (mobil, tablet ,masaüstü) uyumlu çalışır.
 
--Boostrap ile Tasarım: Grid sistemi ile Boostrap komponentleri kullanılarak geliştirildi.
+Boostrap ile Tasarım: Grid sistemi ile Boostrap komponentleri kullanılarak geliştirildi.
 
--Modern ve Temiz Kodlama: Proje sırasında en iyi uygulamalar benimsemiştir.
+Modern ve Temiz Kodlama: Proje sırasında en iyi uygulamalar benimsemiştir.
 
 <h1>Kullanılan Teklonojiler</h1>
 
