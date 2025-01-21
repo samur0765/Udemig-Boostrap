@@ -2,7 +2,7 @@
 
 Udemig Boostrap projesi Html, Css ve Boostrap kullanılarak geliştirilmiş bir eğitim platform uygulamasıdır.Kullanıcı dostu arayüzü ve responsive tasarımı ile her cihazda uyumlu bir deneyim sunar
 
-<h1>Proje Özellikleri
+<h1>Proje Özellikleri</h1>
 
  Kullanıcı Dostu Arayüz: Basit ve etkili bir tasarım ile kullanıcı deneyimi optimize edilmiştir.
 
@@ -13,5 +13,11 @@ Boostrap ile Tasarım: Grid sistemi ile Boostrap komponentleri kullanılarak gel
 Modern ve Temiz Kodlama: Proje sırasında en iyi uygulamalar benimsemiştir.
 
 <h1>Kullanılan Teklonojiler</h1>
+
+Html5
+
+Css3
+
+Boostrap
 
 ![](ekran.gif)
