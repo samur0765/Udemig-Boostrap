@@ -14,10 +14,13 @@ Modern ve Temiz Kodlama: Proje sırasında en iyi uygulamalar benimsemiştir.
 
 <h1>Kullanılan Teklonojiler</h1>
 
-Html5
+-Html5
 
-Css3
+-Css3
 
-Boostrap
+-Boostrap
+
+<h1>Ekran Görüntüsü</h1>
+
 
 ![](ekran.gif)
